@@ -1,1 +1,1 @@
-This is atest file
+This is a test file
